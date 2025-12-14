@@ -1,0 +1,7 @@
+sId,SSN,Ename,Street,City,StateAb,Zipcode,Etype,Bdate,Sdate,Edate,ELevel,Asalary,Agency,Hsalary,Institute,Itype,TelNo,Email
+1,123456789,Mary Durer,11 Cooper Street,Arlington,TX,76019-1111,F,2000-01-20,2023-01-20,NULL,Associate 2,30000,NULL,NULL,NULL,NULL,7329042931,marydurer@gmail.com
+1,123456788,Christian Cart,20 Main Street,Arlington,TX,76019-1111,F,2001-01-02,2023-01-20,NULL,Associate 1,25000,NULL,NULL,NULL,NULL,5128613814,christian.cart@gmail.com
+1,123456777,Radha Gupta,200 Nedderman Dr,Arlington,TX,76019-1111,T,2005-01-20,2023-01-20,NULL,NULL,20000,AR Manpower,10,NULL,NULL,3038745160,radhagupta@gmail.com
+1,123456666,Olampiosi Pi,100 Varsity Circle,Arlington,TX,76019-1111,T,2005-02-01,2023-01-20,NULL,NULL,NULL,Top Performers,10,NULL,NULL,4145737719,olampiosi.pi@gmail.com
+1,123456780,Cao Peng,12 W. Mitchell St.,Arlington,TX,76019-1111,I,2008-01-20,2023-01-20,NULL,NULL,NULL,NULL,NULL,UTA,U,2124629157,pengcao@gmil.com
+1,123456781,Giun Seong,12 S. Pecan St.,Arlington,TX,76019-1111,I,2007-01-01,2023-01-20,NULL,NULL,NULL,NULL,NULL,Arlington High School ,S,9078732882,giun.seong@gmail.com
